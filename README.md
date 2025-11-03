@@ -49,6 +49,4 @@ Integration with a database (MySQL or SQLite)
 **MOHAMMAD FAZIL BHAT**
 **25BCA20011**
 
-[Your Name]
-BCA / Computer Science Student
 [Your GitHub Profile Link]
